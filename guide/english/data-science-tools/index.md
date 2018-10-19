@@ -13,3 +13,9 @@ There are a few tools that you can start learning to get into data science. R re
 Data Science is OSEMN (**O**btain, **S**crub, **M**odel, i**N**terpret) the Data.
 There is one good resource for Data Science and Machine Learning by Open Source Data Science Masters. Follow on github  datasciencemasters!!!
 * [Resources for Data Science](https://github.com/datasciencemasters/go)
+
+Data Science is just mimicking the brain of humanoid into the computer all the abilities of human are programmed into the processor which provide IQ to the computer systems which was impossible before Machine Learning. Tools that i use in my day to day analysis and predictioin
+1-Rstudio
+2-jupyter notebooks
+4-Excel
+3-python libraries-numpy,pandas,matplotlib,scikit learn,seaborn
