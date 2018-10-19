@@ -3,7 +3,7 @@ title: Support Vector Machine
 ---
 ## Support Vector Machine
 
-A Support Vector Machine (SVM) is a discriminative classifier formally defined by a separating hyperplane. In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples. It does this by minimizing the margin between the data points near the hyperplane.
+A Support Vector Machine (SVM) is a discriminative classifier formally defined by a separating hyperplane. In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples. It does this by minimizing the margin between the data points near the hyperplane.This algorithm is also know an widest street possible.
 
 ![SVM vs logistic regression](https://i.imgur.com/KUeOSK3.png)
 
@@ -172,4 +172,4 @@ class Svm (object):
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 <a href='http://scikit-learn.org/stable/modules/svm.html' target='_blank' rel='nofollow'>Scikit-learn SVM</a>
-
+<a href='https://www.youtube.com/watch?v=_PwhiWxHK8o' target='_blank' rel='nofollow'>MIT lecture on support vector machine</a>
