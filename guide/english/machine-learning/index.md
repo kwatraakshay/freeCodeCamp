@@ -46,7 +46,11 @@ data consist of a set of training examples. In supervised learning, each example
 1. <a href="https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A" target="_blank">Siraj Raval's Youtube channel</a>
 2. <a href="https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ" target="_blank">Sentdex's Youtube channel</a>
 
-
+### Book Resources:
+Here are some book links which can be useful while learning ML.
+ 1. <a href="https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf" target="_blank">Introduction to statistical learning</a>
+ 2.<a href="https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X" target="_blank">Data science from scratch</a>
+ 3.<a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf" target="_blank">Elements of statistical learning</a>
 
 #### More Information:
 
