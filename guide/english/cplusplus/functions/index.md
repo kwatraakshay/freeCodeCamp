@@ -61,6 +61,36 @@ Having specific functions to perform specific tasks removes confusion and shorte
 
 The function also performs reusability of code. So the next time you have to calculate the maximum of two different numbers again and again in the same program, you do not need to copy and paste your code. You just have to call the function and it does rest of the work.
 
+## Addition info:
+functions are most widely used in programs.When function is called within the same function, it is known as recursion.
+it's widely used in algorithms to save both time and space. it increases the code reusebility.
+ex:
+```#include <iostream>
+using namespace std;
+int fact(int a);
+int main()
+{
+    int t,a;
+    cin>>t;
+    for(int i=0;i<t;i++)
+    {
+        cin>>a;
+        cout<<fact(a)<<endl;
+    }
+    return 0;
+}
+int fact(int a)
+{
+    int p=1;
+    if(a==0)
+    return(1);
+    else
+    return (a*fact(a-1));
+}
+
+```
+this is an example of factorial program using recursion.this really helps alot for explicitly handling code while computation.
+
 ## More Information
 
 * [TutorialsPoint](https://www.tutorialspoint.com/cplusplus/cpp_functions.htm)
